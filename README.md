@@ -9,10 +9,8 @@ We develop and maintain the full gaming infrastructure behind Mides Projects.
 ➌ Continuous support and fast deployment of new features  
   
 # 👥 Development Team  
-This is the team responsible for building, maintaining and scaling all Mides Games systems.  
-🔩 Abstract – Lead Developer  
+This is the team responsible for building, maintaining and scaling all Mides Games systems.   
 ⚙️ Rivera Castillo – Software Engineer  
-⚙️ JustCarluX – Software Engineer  
 ⚙️ Santino Gregoret – Software Engineer  
 🎨 Sergio Forteza – Aesthetic Manager  
   
